@@ -12,7 +12,7 @@ public class Buffer {
 		System.out.println("conteudo de n = " + n);
 		System.out.println("conteudo de t = " + t);
 		System.out.println("O texto que é lido pelo nextLine é o <ENTER>");
-		System.out.println("Para resolver esse problema é coloar um s.nextLine() entre o nextInt e o nextLine");
+		System.out.println("Para resolver esse problema devemos colocar um s.nextLine() entre o nextInt e o nextLine");
 		
 		
 	}
