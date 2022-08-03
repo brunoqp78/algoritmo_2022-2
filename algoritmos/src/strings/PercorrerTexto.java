@@ -9,9 +9,9 @@ public class PercorrerTexto {
 		String t = s.nextLine();
 		for (int i = 0; i < t.length(); i++) {
 			char c = t.charAt(i);
-			System.out.print(c + ";");
+			if (c != ' ') {
+				System.out.print(c + ";");
+			}
 		}
-
 	}
-
 }
