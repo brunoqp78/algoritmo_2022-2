@@ -2,7 +2,7 @@ package colecoes;
 
 import java.util.ArrayList;
 
-public class ArraListPrimeiroExemplo {
+public class ArrayListPrimeiroExemplo {
 
 	public static void main(String[] args) {
 		ArrayList<String> nomes = new ArrayList<>();		
