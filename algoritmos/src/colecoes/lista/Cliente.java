@@ -1,4 +1,4 @@
-package colecoes;
+package colecoes.lista;
 
 public class Cliente {
 	private String cpf;
