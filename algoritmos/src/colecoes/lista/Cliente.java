@@ -30,6 +30,7 @@ public class Cliente {
 		return this.nome;
 	}
 
+	
 
 	@Override
 	public int hashCode() {
